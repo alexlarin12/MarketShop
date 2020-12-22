@@ -128,6 +128,73 @@
 			path = MarketShopUITests;
 			sourceTree = "<group>";
 		};
+		4395F9A92592905A00836F03 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				4395F9712592845200836F03 /* AppDelegate.swift */,
+				4395F9732592845200836F03 /* SceneDelegate.swift */,
+				4395F9B02592918400836F03 /* BusinessLogic */,
+				4395F9AF2592917000836F03 /* Assembly */,
+				4395F9AE2592914200836F03 /* Flows */,
+				4395F9AB2592908000836F03 /* Entity */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		4395F9AA2592906500836F03 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4395F97A2592845400836F03 /* Assets.xcassets */,
+				4395F97C2592845400836F03 /* LaunchScreen.storyboard */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4395F9AB2592908000836F03 /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Entity;
+			sourceTree = "<group>";
+		};
+		4395F9AC259290FF00836F03 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		4395F9AD2592910C00836F03 /* Environments */ = {
+			isa = PBXGroup;
+			children = (
+				4395F97F2592845400836F03 /* Info.plist */,
+			);
+			path = Environments;
+			sourceTree = "<group>";
+		};
+		4395F9AE2592914200836F03 /* Flows */ = {
+			isa = PBXGroup;
+			children = (
+				4395F9752592845200836F03 /* ViewController.swift */,
+				4395F9772592845200836F03 /* Main.storyboard */,
+			);
+			path = Flows;
+			sourceTree = "<group>";
+		};
+		4395F9AF2592917000836F03 /* Assembly */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Assembly;
+			sourceTree = "<group>";
+		};
+		4395F9B02592918400836F03 /* BusinessLogic */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = BusinessLogic;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
