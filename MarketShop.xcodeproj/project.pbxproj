@@ -102,13 +102,10 @@
 		4395F9702592845200836F03 /* MarketShop */ = {
 			isa = PBXGroup;
 			children = (
-				4395F9712592845200836F03 /* AppDelegate.swift */,
-				4395F9732592845200836F03 /* SceneDelegate.swift */,
-				4395F9752592845200836F03 /* ViewController.swift */,
-				4395F9772592845200836F03 /* Main.storyboard */,
-				4395F97A2592845400836F03 /* Assets.xcassets */,
-				4395F97C2592845400836F03 /* LaunchScreen.storyboard */,
-				4395F97F2592845400836F03 /* Info.plist */,
+				4395F9A92592905A00836F03 /* App */,
+				4395F9AA2592906500836F03 /* Resources */,
+				4395F9AC259290FF00836F03 /* Core */,
+				4395F9AD2592910C00836F03 /* Environments */,
 			);
 			path = MarketShop;
 			sourceTree = "<group>";
